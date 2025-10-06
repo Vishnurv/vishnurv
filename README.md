@@ -10,7 +10,7 @@
 <div align="center">
   <img src="PROFILE_PICTURE_URL" alt="avatar" width="110" style="border-radius:50%"/>
   <h1>Hey there 👋, I'm <b>Vishnu Ravi</b></h1>
-  <p><strong>Network Engineer</strong> • Cisco Certified (CCNA | CCNP) • SD-WAN • Firewall • NOC • Security 🚀</p>
+  <p><strong>Network Engineer</strong> • Cisco Certified CCNA • SD-WAN • Firewall • NOC • Security 🚀</p>
 </div>
 
 ---
@@ -31,6 +31,11 @@
 ![Cisco](https://img.shields.io/badge/Cisco-0072C6?style=for-the-badge&logo=cisco)
 ![Routing](https://img.shields.io/badge/Routing-0A7FFF?style=for-the-badge)
 ![Switching](https://img.shields.io/badge/Switching-FF7A00?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-000000?style=for-the-badge&logo=data-transfer-protocol&logoColor=white) 
+![VPN](https://img.shields.io/badge/VPN-00599C?style=for-the-badge&logo=openvpn&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-66C7F4?style=for-the-badge&logo=cloudflare&logoColor=white)
+![BGP](https://img.shields.io/badge/BGP-F05032?style=for-the-badge&logo=ip-address&logoColor=white)
 
 ### Security 
 ![IPsec](https://img.shields.io/badge/IPsec-000000?style=for-the-badge&logo=ipsec&logoColor=white) 
@@ -40,6 +45,12 @@
 ![Fortinet FortiGate](https://img.shields.io/badge/Fortinet%20FortiGate-FF2200?style=for-the-badge&logo=fortinet&logoColor=white)
 
 ### Monitoring
+![Zabbix](https://img.shields.io/badge/Zabbix-E53221?style=for-the-badge&logo=zabbix&logoColor=white) 
+![NNMi](https://img.shields.io/badge/NNMi-007A3B?style=for-the-badge&logo=microfocus&logoColor=white) 
+![Infoblox NetMRI](https://img.shields.io/badge/Infoblox%20NetMRI-00A9E0?style=for-the-badge&logo=infoblox&logoColor=white) 
+![IPAM](https://img.shields.io/badge/IPAM-4A90E2?style=for-the-badge&logo=ip-address&logoColor=white) 
+![Edge Genie](https://img.shields.io/badge/Edge%20Genie-000000?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+![Ekinops](https://img.shields.io/badge/Ekinops-FF5500?style=for-the-badge&logo=fiber-optic-cable&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-0078D4?style=for-the-badge)
 ![SolarWinds](https://img.shields.io/badge/SolarWinds-FFB000?style=for-the-badge)
 
