@@ -1,25 +1,108 @@
-# 💫 About Me:
-Experience in Cisco Routing, Switching and Network Security, currently looking for a career growth in exploring new network technologies, Domain expertise with Cisco Routers, Switches and ASA, Fortinet Firewall. Experienced in ensuring efficient network operation to prevent user and website outages. <br>Technical experience in Network and Security Administration, Technical Support. Proven- skills in configuring and troubleshooting heterogeneous networks (Layer 2 and Layer 3 switches, Routers, Cisco ASA Firewall ). Excellent communication skills, leadership, planning, and social skills that build and maintains relations across and beyond organization expectation.
+<!--
+  Replace:
+   - YOUR_NAME -> your full name
+   - GITHUB_USERNAME -> your GitHub username (this file must live in a repo named exactly this)
+   - PROFILE_PICTURE_URL -> URL to your avatar (optional)
+   - SHORT_BIO, LOCATION, EMAIL, LINKEDIN, WEBSITE -> your info
+   - Update Certifications, Tools, Interests, Projects as needed
+-->
 
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) 
-![Juniper Networks](https://img.shields.io/badge/Juniper%20Networks-000000?style=for-the-badge&logo=Juniper%20Networks&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-000000?style=for-the-badge&logo=data-transfer-protocol&logoColor=white) 
-![Firewall](https://img.shields.io/badge/Firewall-FF5733?style=for-the-badge&logo=fire-extinguisher&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![BGP](https://img.shields.io/badge/BGP-F05032?style=for-the-badge&logo=ip-address&logoColor=white)
-![VPN](https://img.shields.io/badge/VPN-00599C?style=for-the-badge&logo=openvpn&logoColor=white)
-![DNS](https://img.shields.io/badge/DNS-66C7F4?style=for-the-badge&logo=cloudflare&logoColor=white)
-![IPsec](https://img.shields.io/badge/IPsec-000000?style=for-the-badge&logo=ipsec&logoColor=white) 
-![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-3046A6?style=for-the-badge&logo=openssl&logoColor=white)
-![Check Point Firewall](https://img.shields.io/badge/Check%20Point-52B350?style=for-the-badge&logo=checkpoint&logoColor=white) 
-![Palo Alto Networks](https://img.shields.io/badge/Palo%20Alto%20Networks-006699?style=for-the-badge&logo=palo-alto-networks&logoColor=white) 
-![Fortinet FortiGate](https://img.shields.io/badge/Fortinet%20FortiGate-FF2200?style=for-the-badge&logo=fortinet&logoColor=white)
+<div align="center">
+  <img src="PROFILE_PICTURE_URL" alt="avatar" width="110" style="border-radius:50%"/>
+  <h1>Hey there 👋, I'm <b>Vishnu Ravi</b></h1>
+  <p><strong>Network Engineer</strong> • Cisco Certified (CCNA | CCNP) • SD-WAN • Firewall • NOC • Security 🚀</p>
+</div>
+
+---
+
+## 📌 About Me
+- 🔹 **Current Role:** Senior Support Engineer (Enterprise NOC)  
+- 🧾 **Certifications:** CCNA | MCSE |  PCNSE
+- 🛠 **Tools & Platforms:** Cisco IOS, Juniper, Palo Alto, FortiGate, SD-WAN, VPN, Wireshark, SolarWinds,Zabbix, PRTG, Python, Ansible  
+- ⚙️ **Specialties:** Network design, implementation, troubleshooting, monitoring, automation  
+- 🌩 **Interests:** Cloud Networking (AWS / Azure), DevNet, Python for automation  
+- 🎯 **Goal:** Build scalable, secure, and automated networks for the future 🌍
+
+---
+
+## 🧰 Skills & Technologies
+
+### Networking
+![Cisco](https://img.shields.io/badge/Cisco-0072C6?style=for-the-badge&logo=cisco)
+![Routing](https://img.shields.io/badge/Routing-0A7FFF?style=for-the-badge)
+![Switching](https://img.shields.io/badge/Switching-FF7A00?style=for-the-badge)
+
+### Security & Monitoring
+![PaloAlto](https://img.shields.io/badge/PaloAlto-FF6A00?style=for-the-badge)
+![Fortinet](https://img.shields.io/badge/FortiNet-FF4F00?style=for-the-badge)
+![Check Point Firewall](https://img.shields.io/badge/Check%20Point-52B350?style=for-the-badge&logo=checkpoint&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-0078D4?style=for-the-badge)
+![SolarWinds](https://img.shields.io/badge/SolarWinds-FFB000?style=for-the-badge)
+
+### Automation & Cloud
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+
+---
+
+## 💼 Work Experience
+
+### 🚀 Senior Support Engineer – **TEKsystems**  
+*Oct 2022 – Present*  
+
+- Provides **network infrastructure support** and resolves connectivity issues.  
+- Ensures network trouble tickets are resolved in a timely manner.  
+- Analyses firewall requests, creates scripts, and implements them as part of the **change process**.  
+- Performs device decommissions by cleaning configurations on routers, firewalls, switches, and load balancers.  
+- Raises **carrier tickets, TAC cases, and RMA** with various vendors.  
+- Contributes **knowledge-based articles** on issue resolution and correct processes.  
+- Configured and maintained **Cisco routers, switches, and firewalls**, including troubleshooting connectivity and performance issues.  
+- Implemented and managed **VLANs, ACLs, and VPNs** to secure traffic and protect sensitive data.  
+- Monitored network performance using **Zabbix** and **NNMi**, identifying and resolving bottlenecks.  
+- Provided **technical support** and troubleshooting assistance to end-users, resolving network-related issues promptly.  
+
+---
+
+### 🌐 NOC Support Engineer – **Concentrix**  
+*Aug 2021 – Oct 2022*  
+  
+- Created and maintained **network documentation and knowledge base**.  
+- Ensured **timely completion** of activities and generated daily link utilization reports with **SLA > 95%**.  
+- Monitored & troubleshooted network devices including **Cisco Routers, Switches, ASA-X Firewalls**.  
+- Implemented **security policies** using Router/Switch security and Firewalls.  
+- Escalated technical issues to vendors and followed up for resolution.  
+- Configured **firewall rules** and provided user access as per requirements.  
+
+
+---
+
+## 📫 Contact
+- 📍 Location: LOCATION  
+- ✉️ Email: [EMAIL](vishnu310597@gmail.com)  
+- 🔗 LinkedIn: [LINKEDIN](https://linkedin.com/in/https://www.linkedin.com/in/vishnu-ravi-b386a9152/)  
+- 🌐 Website / Portfolio: [WEBSITE](WEBSITE)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <a href="https://github.com/GITHUB_USERNAME">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&count_private=true&theme=default" />
+  </a>
+  <a href="https://github.com/GITHUB_USERNAME">
+    <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=GITHUB_USERNAME&theme=default" />
+  </a>
+</p>
+
+---
+
+## 🧾 Resume
+You can download my resume here: [Resume PDF](./Resume.pdf) *(replace with your file or external link)*
+
+---
 
 
 
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishnu-ravi-b386a9152/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishnu310597@gmail.com)
