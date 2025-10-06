@@ -19,7 +19,7 @@
 - 🔹 **Current Role:** Senior Support Engineer (Enterprise NOC)  
 - 🧾 **Certifications:** CCNA | MCSE |  PCNSE
 - 🛠 **Tools & Platforms:** Cisco IOS, Checkpoint, Palo Alto, FortiGate, SD-WAN, VPN, Wireshark, SolarWinds,Zabbix, PRTG, Python, Ansible  
-- ⚙️ **Specialties:** Network design, implementation, troubleshooting, monitoring, automation  
+- ⚙️ **Specialties:** Network design, Implementation, Troubleshooting, Monitoring, Automation  
 - 🌩 **Interests:**  Network Security 
 - 🎯 **Goal:** Build scalable, secure, and automated networks for the future 🌍
 
