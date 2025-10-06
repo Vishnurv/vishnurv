@@ -13,10 +13,9 @@ Experience in Cisco Routing, Switching and Network Security, currently looking f
 ![DNS](https://img.shields.io/badge/DNS-66C7F4?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![IPsec](https://img.shields.io/badge/IPsec-000000?style=for-the-badge&logo=ipsec&logoColor=white) 
 ![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-3046A6?style=for-the-badge&logo=openssl&logoColor=white)
-![Check Point Firewall](https://img.shields.io/badge/Check%20Point%20Firewall-52B350?style=for-the-badge&logo=checkpoint&logoColor=white) 
+![Check Point Firewall](https://img.shields.io/badge/Check%20Point-52B350?style=for-the-badge&logo=checkpoint&logoColor=white) 
 ![Palo Alto Networks](https://img.shields.io/badge/Palo%20Alto%20Networks-006699?style=for-the-badge&logo=palo-alto-networks&logoColor=white) 
 ![Fortinet FortiGate](https://img.shields.io/badge/Fortinet%20FortiGate-FF2200?style=for-the-badge&logo=fortinet&logoColor=white)
-
 
 
 
