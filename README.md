@@ -20,7 +20,7 @@
 - 🧾 **Certifications:** CCNA | MCSE |  PCNSE
 - 🛠 **Tools & Platforms:** Cisco IOS, Checkpoint, Palo Alto, FortiGate, SD-WAN, VPN, Wireshark, SolarWinds,Zabbix, PRTG, Python, Ansible  
 - ⚙️ **Specialties:** Network design, implementation, troubleshooting, monitoring, automation  
-- 🌩 **Interests:** Cloud Networking (AWS / Azure), DevNet, Python for automation  
+- 🌩 **Interests:**  Network Security 
 - 🎯 **Goal:** Build scalable, secure, and automated networks for the future 🌍
 
 ---
