@@ -18,7 +18,7 @@
 ## 📌 About Me
 - 🔹 **Current Role:** Senior Support Engineer (Enterprise NOC)  
 - 🧾 **Certifications:** CCNA | MCSE |  PCNSE
-- 🛠 **Tools & Platforms:** Cisco IOS, Juniper, Palo Alto, FortiGate, SD-WAN, VPN, Wireshark, SolarWinds,Zabbix, PRTG, Python, Ansible  
+- 🛠 **Tools & Platforms:** Cisco IOS, Checkpoint, Palo Alto, FortiGate, SD-WAN, VPN, Wireshark, SolarWinds,Zabbix, PRTG, Python, Ansible  
 - ⚙️ **Specialties:** Network design, implementation, troubleshooting, monitoring, automation  
 - 🌩 **Interests:** Cloud Networking (AWS / Azure), DevNet, Python for automation  
 - 🎯 **Goal:** Build scalable, secure, and automated networks for the future 🌍
@@ -79,28 +79,15 @@
 ---
 
 ## 📫 Contact
-- 📍 Location: LOCATION  
+- 📍 Location: Bengaluru  
+- 📱 Mobile: +91-8848364928
 - ✉️ Email: [EMAIL](vishnu310597@gmail.com)  
 - 🔗 LinkedIn: [LINKEDIN](https://linkedin.com/in/https://www.linkedin.com/in/vishnu-ravi-b386a9152/)  
-- 🌐 Website / Portfolio: [WEBSITE](WEBSITE)
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <a href="https://github.com/GITHUB_USERNAME">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&count_private=true&theme=default" />
-  </a>
-  <a href="https://github.com/GITHUB_USERNAME">
-    <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=GITHUB_USERNAME&theme=default" />
-  </a>
-</p>
 
 ---
 
 ## 🧾 Resume
-You can download my resume here: [Resume PDF](./Resume.pdf) *(replace with your file or external link)*
+You can download my resume here: [Resume PDF]([./Resume.pdf](https://drive.google.com/file/d/1GA-KKPjdXeFK3M6nqJYt8qPh4i0_iH-v/view?usp=sharing)) *(replace with your file or external link)*
 
 ---
 
