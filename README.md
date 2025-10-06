@@ -32,10 +32,14 @@
 ![Routing](https://img.shields.io/badge/Routing-0A7FFF?style=for-the-badge)
 ![Switching](https://img.shields.io/badge/Switching-FF7A00?style=for-the-badge)
 
-### Security & Monitoring
-![PaloAlto](https://img.shields.io/badge/PaloAlto-FF6A00?style=for-the-badge)
-![Fortinet](https://img.shields.io/badge/FortiNet-FF4F00?style=for-the-badge)
-![Check Point Firewall](https://img.shields.io/badge/Check%20Point-52B350?style=for-the-badge&logo=checkpoint&logoColor=white)
+### Security 
+![IPsec](https://img.shields.io/badge/IPsec-000000?style=for-the-badge&logo=ipsec&logoColor=white) 
+![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-3046A6?style=for-the-badge&logo=openssl&logoColor=white)
+![Check Point Firewall](https://img.shields.io/badge/Check%20Point-52B350?style=for-the-badge&logo=checkpoint&logoColor=white) 
+![Palo Alto Networks](https://img.shields.io/badge/Palo%20Alto%20Networks-006699?style=for-the-badge&logo=palo-alto-networks&logoColor=white) 
+![Fortinet FortiGate](https://img.shields.io/badge/Fortinet%20FortiGate-FF2200?style=for-the-badge&logo=fortinet&logoColor=white)
+
+### Monitoring
 ![Wireshark](https://img.shields.io/badge/Wireshark-0078D4?style=for-the-badge)
 ![SolarWinds](https://img.shields.io/badge/SolarWinds-FFB000?style=for-the-badge)
 
