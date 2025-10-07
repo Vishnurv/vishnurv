@@ -102,7 +102,8 @@
 ---
 
 ## 🧾 Resume
-You can download my resume here: [Resume PDF]([./Resume.pdf](https://drive.google.com/file/d/1GA-KKPjdXeFK3M6nqJYt8qPh4i0_iH-v/view?usp=sharing)) *(replace with your file or external link)*
+You can download my resume here: [![Resume](https://img.shields.io/badge/Resume-PDF-blue)](https://drive.google.com/file/d/1GA-KKPjdXeFK3M6nqJYt8qPh4i0_iH-v/view?usp=sharing)
+ 
 
 ---
 
